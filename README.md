@@ -91,7 +91,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 011528263568.dkr.ecr.eu-north-1.amazonaws.com/chicken_cesease_classifier_dl_govind_kv
+    - Save the URI: 
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -125,11 +125,11 @@ open up you local host and port
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = <>
 
-    AWS_ECR_LOGIN_URI = demo>>  011528263568.dkr.ecr.eu-north-1.amazonaws.com/chicken_cesease_classifier_dl_govind_kv
+    AWS_ECR_LOGIN_URI = demo>> 
     
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = 
 
 
 
