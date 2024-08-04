@@ -141,11 +141,11 @@ open up you local host and port
 
 ## Run from terminal
 
-docker build -t chickenapp.azurecr.io/chicken:latest .
+docker build -t chickendiseaseclassificationdl.azurecr.io/chickendiseaseclassificationdl
 
-docker login chickenapp.azurecr.io
+docker login chickendiseaseclassificationdl.azurecr.io
 
-docker push chickenapp.azurecr.io/chicken:latest
+docker push chickenapp.azurecr.io/chickendiseaseclassificationdl
 
 
 ## Deployment Steps:
